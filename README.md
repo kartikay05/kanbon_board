@@ -1,2 +1,2 @@
-## A Kanboard Board for your daily needs
-*Live Link* -> https://kanbon-board-alpha.vercel.app/
+## A Kanban Board for your daily needs
+*Live Link* -> https://board-krt.vercel.app/
